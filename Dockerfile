@@ -1,4 +1,4 @@
-FROM amazonlinux:2016.09
+FROM amazonlinux:2017.03
 MAINTAINER youyo
 
 ENV SERVERLESS_VERSION=1.9.0
